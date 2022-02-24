@@ -5,6 +5,9 @@ It automatically manages a surface, providing a post-draw callback entrypoint fo
 
 Requires [Core](https://github.com/omicronrex/gm82core) version 1.3.2 or newer.
 
+## Deprecation Notice
+This extension will be merged with the [GM 8.2 DirectX8 Extension](https://github.com/omicronrex/gm82dx8) soon. This repo will continue existing, but won't receive further updates.
+
 ## Usage
 1. Install Core and AppSurf, and add both to your project.
 2. Create a script that will be used as a screen composing callback.
